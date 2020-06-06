@@ -1,6 +1,4 @@
-# Kata: Business Rules
 
-Please find the original version of the kata [here](http://codekata.com/kata/kata16-business-rules/).
 
 # Description
 How can you tame a wild (and changing) set of business rules?
